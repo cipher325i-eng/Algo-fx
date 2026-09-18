@@ -1,0 +1,6 @@
+{
+  "name": "Generator X - AI Chart Scanner",
+  "description": "Automated technical chart analysis engine powered by Gemini Vision, featuring Smart Money Concepts (SMC), FVG detection, liquidity sweeps, position sizing, and economic news calendar for Android 15.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
